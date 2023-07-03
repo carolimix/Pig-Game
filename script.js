@@ -95,3 +95,5 @@ btnHold.addEventListener('click', function () {
 });
 
 btnNew.addEventListener('click', init);
+
+//not done with style, and two more videos to go
